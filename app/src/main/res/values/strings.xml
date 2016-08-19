@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">A1_L3_h</string>
+
+    <!--String main layout-->
+    <string name="txt_white">My personal skills</string>
+    <string name="txt_black">My secret skills</string>
+    <string name="btn_skill_life">In life</string>
+    <string name="btn_skill_work">At work</string>
+
+    <!--String at menu-->
+    <string name="menu_item_skills">Узнай про мои навыки?</string>
+    <string name="menu_item_age">Либо про мой возраст?</string>
+    <string name="my_name">Хамит</string>
+    <string name="lbl_surname">Фамилия</string>
+    <string name="lbl_name">Моё имя</string>
+    <string name="my_surname">Абишев</string>
+    <string name="lbl_email">Email</string>
+    <string name="my_email">timah87@mail.ru</string>
+    <string name="lbl_phone">Я просто очень загадочный, кому буду нужен, звоните по номеру:</string>
+    <string name="my_phone">+7 (495) 937-99-92</string>
+    <string name="click_me">Click me</string>
+
+    <!--My skills-->
+    <!--Personal skills-->
+    <string-array name="array_my_skills">
+        <item>Креативный</item>
+        <item>Ответственный</item>
+        <item>Всесторонне образован</item>
+        <item>Творческий человек</item>
+        <item>Пунктуальный</item>
+        <item>Привлекательный</item>
+        <item>Умопомрачительный</item>
+        <item>Чумачечий</item>
+        <item>Хороший организатор</item>
+        <item>Общительный</item>
+        <item>Бомбезный</item>
+        <item>И просто хороший человек</item>
+    </string-array>
+
+    <!--Skills in It-->
+    <string-array name="array_skills_in_IT">
+        <item>Знание Java Core</item>
+        <item>Знание Android SDK</item>
+        <item>Опыт работы в IntelliJ IDEA, Eclipse, Android Studio</item>
+        <item>Опыт разработки Android-приложений на Java</item>
+        <item>Опыт работы с XML, JSON, HTTP, sockets</item>
+        <item>SQLite, Web, Concurrency</item>
+        <item>Знание синтаксиса языка SQL</item>
+
+    </string-array>
+
+    <!--Ninja skills-->
+    <string-array name="array_skills_ninja">
+        <item>Быстрый</item>
+        <item>Неуловимый</item>
+        <item>Сильный</item>
+        <item>Ловкий</item>
+        <item>Знаю УШУ</item>
+        <item>Знаю КОНФУ</item>
+        <item>Из Клана ЛА БЕР</item>
+        <item>Умею Летать</item>
+        <item>Высоко прыгаю</item>
+        <item>Быстро бегаю</item>
+        <item>Хорошо плаваю</item>
+        <item>Знаю Японский</item>
+        <item>Кушаю только суши</item>
+        <item>Пью только воду</item>
+        <item>Не сплю 1 месяц</item>
+        <item>Как вампир только не пью кровь</item>
+        <item>Вот простите, просто очень тороплюсь</item>
+        <item>И уже пишу ерунду</item>
+    </string-array>
+
+</resources>
